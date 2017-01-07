@@ -1,0 +1,17 @@
+16:43:22,203 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:43:22,322 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\Users\Administrator\Desktop\mission\moana\target\classes\com\movietickets\domain\User.class" with enhanced definition
+16:43:22,325 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\Users\Administrator\Desktop\mission\moana\target\classes\com\movietickets\domain\MovieTicket.class" with enhanced definition
+16:43:22,329 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\Users\Administrator\Desktop\mission\moana\target\classes\com\movietickets\domain\OrderRecord.class" with enhanced definition
+16:43:22,330 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+16:43:23,157 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:43:23,282 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\Users\Administrator\Desktop\mission\moana\target\classes\com\movietickets\domain\User.class" with enhanced definition
+16:43:23,286 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\Users\Administrator\Desktop\mission\moana\target\classes\com\movietickets\domain\MovieTicket.class" with enhanced definition
+16:43:23,290 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\Users\Administrator\Desktop\mission\moana\target\classes\com\movietickets\domain\OrderRecord.class" with enhanced definition
+16:43:23,290 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+16:43:23,940 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:43:24,058 (main) INFO  [DataNucleus.Enhancer] - Class "com.movietickets.domain.User" is already enhanced.
+16:43:24,059 (main) INFO  [DataNucleus.Enhancer] - Class "com.movietickets.domain.MovieTicket" is already enhanced.
+16:43:24,059 (main) INFO  [DataNucleus.Enhancer] - Class "com.movietickets.domain.OrderRecord" is already enhanced.
+16:43:24,060 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+16:43:24,721 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+16:43:24,827 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
